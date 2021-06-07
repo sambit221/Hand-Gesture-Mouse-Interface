@@ -1,7 +1,7 @@
 # Hand-Gesture-Mouse-Interface
 Hand Gesture Mouse Interface is developed to captures hand gesture from the user through web camera to perform the corresponding operation on the computer device.
 
-### Tools and Languages Used:
+## Tools and Languages Used:
 <img align="left" alt="python" width="26px" src="python.png" />
 <img align="left" alt="opencv" width="26px" src="opencv.png" />
 
