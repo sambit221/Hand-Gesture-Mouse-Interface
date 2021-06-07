@@ -4,8 +4,7 @@ Hand Gesture Mouse Interface is developed to captures hand gesture from the user
 ## Tools and Languages Used:
 <img align="left" alt="python" width="26px" src="python.png" />
 <img align="left" alt="opencv" width="26px" src="opencv.png" />
-.<br>
-
+<br><br>
 
 ## Inspired from
 Gesture recognition is a topic in computer science with the goal of interpreting human gestures via mathematical algorithms.It is a subdiscipline of computer vision.
@@ -14,14 +13,11 @@ Gesture recognition can be seen as a way for computers to begin to understand hu
 
 -> So here is our approach to fulfil this objective.
 
-
-
 ## A step towards Touchless interface
 Here the Touchless user interface(TUI) comes into picture.
 * Touchless user interface is an emerging type of technology in relation to gesture control.
 * TUI is the process of commanding the computer via body motion and gestures without touching a keyboard, mouse, or screen.
 * Touchless interface in addition to gesture controls are becoming widely popular as they provide the abilities to interact with devices without physically touching them.
-
 
 ### Developed by:
 <a href="https://github.com/sambit221">Sambit Kumar Tripathy</a>
