@@ -7,7 +7,7 @@ Hand Gesture Mouse Interface is developed to captures hand gesture from the user
 
 
 
-# Inspired from
+## Inspired from
 Gesture recognition is a topic in computer science with the goal of interpreting human gestures via mathematical algorithms.It is a subdiscipline of computer vision.
 
 Gesture recognition can be seen as a way for computers to begin to understand human body language, thus building a richer bridge between machines and humans than primitive text user interfaces or even GUIs (graphical user interfaces), which still limit the majority of input to keyboard and mouse and interact naturally without any mechanical devices. Using the concept of gesture recognition, it is possible to point a finger at this point will move accordingly. This could make conventional input on devices such and even redundant.
