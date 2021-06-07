@@ -19,5 +19,8 @@ Here the Touchless user interface(TUI) comes into picture.
 * TUI is the process of commanding the computer via body motion and gestures without touching a keyboard, mouse, or screen.
 * Touchless interface in addition to gesture controls are becoming widely popular as they provide the abilities to interact with devices without physically touching them.
 
+### License
+Hand-Gesture-Mouse-Interface is licensed under the Apache License 2.0[read more here](https://github.com/sambit221/Hand-Gesture-Mouse-Interface/blob/main/LICENSE)
+
 ### Developed by:
 <a href="https://github.com/sambit221">Sambit Kumar Tripathy</a>
