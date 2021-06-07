@@ -4,7 +4,7 @@ Hand Gesture Mouse Interface is developed to captures hand gesture from the user
 ## Tools and Languages Used:
 <img align="left" alt="python" width="26px" src="python.png" />
 <img align="left" alt="opencv" width="26px" src="opencv.png" />
-
+.<br>
 
 
 ## Inspired from
